@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Saad Arif! 👋</h1>
-<h3 align="center">Software Engineering Student | Backend APIs | Systems Programming</h3>
+<h3 align="center">Backend & Systems Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saad-arif-20">
@@ -14,12 +14,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **software engineering student** building robust backend systems, distributed infrastructure, and low-level systems software. I care about writing code that is correct, well-reasoned, and production-grade — not just code that works.
+I enjoy building reliable backend systems, distributed infrastructure, and low-level software with a strong focus on correctness and scalability.
 
-- 🔭 Currently building an **Event-Driven Workflow Automation Engine** (Zapier-style, with Redis/BullMQ)
-- 🧠 Interested in **distributed systems**, **computer vision**, and **AI reasoning**
-- ⚙️ I enjoy working close to the metal — from **custom memory allocators in C** to **PostgreSQL schema design**
-- 🎯 Focused on backend APIs and infrastructure for ML-driven products
+- 🔭 Currently building an **Event-Driven Workflow Automation Engine** (Zapier-style) processing workflows with Redis/BullMQ.
+- 🧠 Interested in **distributed systems**, **computer vision**, and **agentic systems**.
+- ⚙️ I enjoy working close to the metal — from **custom memory allocators in C** to **PostgreSQL schema design**.
+- 🎯 Focused on backend APIs and infrastructure for ML-driven products.
 
 ---
 
@@ -61,10 +61,10 @@ I'm a **software engineering student** building robust backend systems, distribu
 
 | Project | Description | Stack |
 |---|---|---|
-| [**event-driven-workflow-automation**](https://github.com/Saad-Arif-20/event-driven-workflow-automation) | A Zapier-style automation engine with asynchronous job queues, webhook ingestion, and a full-stack dashboard | `TypeScript` `Node.js` `Redis` `BullMQ` `PostgreSQL` `Next.js` |
-| [**robocup-vision-navigation**](https://github.com/Saad-Arif-20/robocup-vision-navigation) | Autonomous Pioneer 3-DX robot using HSV segmentation, a custom Kalman filter, and pure pursuit FSM to score goals | `Python` `OpenCV` `Webots` |
-| [**memory-allocator**](https://github.com/Saad-Arif-20/memory-allocator) | A custom dynamic memory allocator in C implementing free-list management, coalescing, and first-fit/best-fit strategies | `C` `Systems Programming` |
-| [**ai-reasoning-system**](https://github.com/Saad-Arif-20/ai-reasoning-system) | A modular AI agent framework with pluggable reasoning algorithms and environment simulations | `Python` `AI/ML` |
+| [**event-driven-workflow-automation**](https://github.com/Saad-Arif-20/event-driven-workflow-automation) | A scalable workflow automation engine featuring asynchronous event pipelines using Redis streams and BullMQ workers, webhook ingestion, and a real-time execution monitoring dashboard. | `TypeScript` `Node.js` `Redis` `BullMQ` `PostgreSQL` `Next.js` |
+| [**robocup-vision-navigation**](https://github.com/Saad-Arif-20/robocup-vision-navigation) | Autonomous Pioneer 3-DX robot utilizing HSV segmentation, a custom 2D Constant Position Kalman filter, and pure pursuit FSM for real-time goal-oriented navigation. | `Python` `OpenCV` `Webots` |
+| [**memory-allocator**](https://github.com/Saad-Arif-20/memory-allocator) | A custom dynamic memory allocator in C implementing free-list management, coalescing, and first-fit/best-fit strategies for deterministic memory tracking. | `C` `Systems Programming` |
+| [**ai-reasoning-system**](https://github.com/Saad-Arif-20/ai-reasoning-system) | A modular agentic framework designed with pluggable reasoning algorithms for simulating autonomous decision-making environments. | `Python` `Agentic Systems` `AI/ML` |
 
 ---
 
@@ -74,6 +74,3 @@ While I have a solid foundation in backend and systems engineering, I am continu
 - Building highly concurrent systems and managing state across distributed microservices.
 - Advanced message broker patterns (RabbitMQ/Kafka) for large-scale data pipelines.
 - CI/CD automation and container orchestration.
-
-<br/>
-<p align="center"><i>"The best way to predict the future is to invent it." — Alan Kay</i></p>
