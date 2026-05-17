@@ -2,7 +2,7 @@
 <h3 align="center">Backend & Systems Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saad-arif-20">
+  <a href="https://www.linkedin.com/in/saad--arif/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:arifsaad28@gmail.com">
