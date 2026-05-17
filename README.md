@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saad%20Arif&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Systems&descAlignY=60&descSize=20&descColor=a78bfa" width="100%"/>
-</p>
+<h1 align="center">Hi there, I'm Saad Arif! 👋</h1>
+<h3 align="center">Software Engineering Student | Backend APIs | Systems Programming</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saad-arif-20">
@@ -9,12 +8,11 @@
   <a href="mailto:arifsaad28@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Saad-Arif-20&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
 I'm a **software engineering student** building robust backend systems, distributed infrastructure, and low-level systems software. I care about writing code that is correct, well-reasoned, and production-grade — not just code that works.
 
@@ -70,19 +68,12 @@ I'm a **software engineering student** building robust backend systems, distribu
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Exploring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saad-Arif-20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Arif-20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
-</p>
+While I have a solid foundation in backend and systems engineering, I am continuously expanding my knowledge. Right now, I am actively diving deeper into:
+- Building highly concurrent systems and managing state across distributed microservices.
+- Advanced message broker patterns (RabbitMQ/Kafka) for large-scale data pipelines.
+- CI/CD automation and container orchestration.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Saad-Arif-20&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
-</p>
+<br/>
+<p align="center"><i>"The best way to predict the future is to invent it." — Alan Kay</i></p>
